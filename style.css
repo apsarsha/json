@@ -1,0 +1,7 @@
+.ui-container{
+    flex-wrap: wrap;
+    
+  }
+  .ui-container .card{
+    max-width: 180px;
+  }
